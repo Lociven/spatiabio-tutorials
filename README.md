@@ -12,6 +12,7 @@ Code and notebooks from [spatiabio.com](https://www.spatiabio.com) — a blog co
 | 4 | [CellChat on Spatial Data: A Step-by-Step Tutorial](https://www.spatiabio.com/2026/06/cellchat-on-spatial-data-step-by-step.html) | [cellchat-spatial/cellchat_spatial_tutorial.ipynb](cellchat-spatial/cellchat_spatial_tutorial.ipynb) |
 | 5 | [Spatially Variable Genes with Squidpy: Moran's I](https://www.spatiabio.com/2026/06/spatially-variable-genes-with-squidpy.html) | [svg-morans-i/svg_morans_i.ipynb](svg-morans-i/svg_morans_i.ipynb) |
 | 6 | [Visualizing Spatially Variable Genes with Squidpy](https://www.spatiabio.com/2026/06/visualizing-spatially-variable-genes-on.html) | [svg-visualization/svg_visualization.ipynb](svg-visualization/svg_visualization.ipynb) |
+| 7 | [Neighborhood Enrichment Analysis with Squidpy](https://www.spatiabio.com) | [nhood-enrichment/nhood_enrichment.ipynb](nhood-enrichment/nhood_enrichment.ipynb) |
 
 ## Data
 
