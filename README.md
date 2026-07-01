@@ -6,7 +6,7 @@ Code and notebooks from [spatiabio.com](https://www.spatiabio.com) — a blog co
 
 | # | Post | Notebook |
 |---|------|----------|
-| 1 | [Squidpy vs Seurat: A Practical Comparison](https://www.spatiabio.com/2026/06/squidpy-vs-seurat-practical-comparison.html) | [squidpy-vs-seurat/squidpy_vs_seurat.ipynb](squidpy-vs-seurat/squidpy_vs_seurat.ipynb) |
+| 1 | [Squidpy vs Seurat: A Practical Comparison](https://www.spatiabio.com/2026/06/squidpy-vs-seurat-for-spatial.html) | [squidpy-vs-seurat/squidpy_vs_seurat.ipynb](squidpy-vs-seurat/squidpy_vs_seurat.ipynb) |
 | 2 | [Squidpy + Seurat Troubleshooting Roundup](https://www.spatiabio.com/2026/06/squidpy-seurat-spatial-transcriptomics.html) | [troubleshooting/squidpy_seurat_troubleshooting.ipynb](troubleshooting/squidpy_seurat_troubleshooting.ipynb) |
 | 3 | [Spatio-DARLIN: The Paper That Maps Where Cells Have Been](https://www.spatiabio.com/2026/06/spatio-darlin-paper-that-maps-where.html) | [spatio-darlin/spatio_darlin_explainer.ipynb](spatio-darlin/spatio_darlin_explainer.ipynb) |
 | 4 | [CellChat on Spatial Data: A Step-by-Step Tutorial](https://www.spatiabio.com/2026/06/cellchat-on-spatial-data-step-by-step.html) | [cellchat-spatial/cellchat_spatial_tutorial.ipynb](cellchat-spatial/cellchat_spatial_tutorial.ipynb) |
